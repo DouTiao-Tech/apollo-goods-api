@@ -1,0 +1,11 @@
+{
+  "name": "apollo-marketing-api",
+  "version": "0.0.1",
+  "author": "holmofy <hu1996723@163.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/DouTiao-Tech/apollo-marketing-api",
+  "repository": "https://github.com/DouTiao-Tech/apollo-marketing-api.git",
+  "bugs": {
+    "url": "https://github.com/DouTiao-Tech/apollo-marketing-api/issues"
+  }
+}
